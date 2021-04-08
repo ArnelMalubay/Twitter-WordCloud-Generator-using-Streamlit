@@ -4,3 +4,13 @@ wordcloud==1.8.1
 twint==2.1.21
 pandas==1.2.3
 googletransx==2.4.2
+aiodns==2.0.0
+aiohttp==3.7.4.post0
+aiohttp-socks==0.6.0
+beautifulsoup4==4.9.1
+cchardet==2.1.7
+elasticsearch==7.12.0
+PySocks==1.7.1
+schedule==1.0.0
+geopy==2.1.0
+fake-useragent==0.1.11
