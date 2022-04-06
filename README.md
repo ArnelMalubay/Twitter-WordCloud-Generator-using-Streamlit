@@ -2,16 +2,16 @@
 
 A simple Word Cloud generator that utilizes Python's wordcloud (for creating the word cloud), twint (for mining tweets), and streamlit (for app deployment) packages.
 
-<p align="center"><img src="sample_images/barack.png" width="300"/></p>
+<p align="center"><img src="sample_images/barack.png" width="700"/></p>
 <p align="center"><strong>Wordcloud for the 1600 most recent tweets of @BarackObama</strong></p>
 
-<p align="center"><img src="sample_images/elon.png" width="300"/></p>
+<p align="center"><img src="sample_images/elon.png" width="700"/></p>
 <p align="center"><strong>Wordcloud for the 1600 most recent tweets of @elonmusk</strong></p>
 
-<p align="center"><img src="sample_images/nasa.png" width="300"/></p>
+<p align="center"><img src="sample_images/nasa.png" width="700"/></p>
 <p align="center"><strong>Wordcloud for the 1600 most recent tweets of @nasa</strong></p>
 
-<p align="center"><img src="sample_images/youtube.png" width="300"/></p>
+<p align="center"><img src="sample_images/youtube.png" width="700"/></p>
 <p align="center"><strong>Wordcloud for the 1600 most recent tweets of @YouTube</strong></p>
 
 Accessing the App
